@@ -17,7 +17,7 @@ The project has implemented:
 
 ## Installation
 
-Requires Java 11, Eclipse IDE for Enterprise Java and Web Developers (Version: 2021-12 (4.22.0)), Apache Maven 3.8.4, a Java web server (e.g. Apache Tomcat 7)
+Requires: Java 11, Eclipse IDE (Version: 4.22.0),  Apache Maven 3.8.4,  Java web server (e.g. Apache Tomcat 7)
 
 
 ## Usage
