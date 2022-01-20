@@ -17,7 +17,7 @@ The project has implemented:
 
 ## Installation
 
-Requires: Java 11, Eclipse IDE (Version: 4.22.0),  Apache Maven 3.8.4,  Java web server (e.g. Apache Tomcat/7.0.47), MySQL Database 8.0.27.
+Requires: Java 11 (jdk-11.0.13), Eclipse IDE (Version: 4.22.0),  Apache Maven 3.8.4,  Java web server (e.g. Apache Tomcat/7.0.47), MySQL Database 8.0.27.
 
 
 ## Usage
