@@ -1,6 +1,6 @@
 ## NATIONAL BUDGET
 
-Java Maven web project for analyzing the expenditures of the State Budget of Ukraine 
+Java Maven web project for analyzing the expenditures of the State Budget of Ukraine. 
  
 The project has implemented:
 
