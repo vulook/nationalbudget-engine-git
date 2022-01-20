@@ -17,10 +17,10 @@ The project has implemented:
 
 ## Installation
 
-Requires: Java 11, Eclipse IDE (Version: 4.22.0),  Apache Maven 3.8.4,  Java web server (e.g. Apache Tomcat 7)
+Requires: Java 11, Eclipse IDE (Version: 4.22.0),  Apache Maven 3.8.4,  Java web server (e.g. Apache Tomcat/7.0.47), MySQL Database 8.0.27.
 
 
 ## Usage
 
 The app has been launched on Heroku.
-The site can be accessed with the following [link](https://vulook-java-nationalbudget.herokuapp.com/)
+The site can be accessed with the following [link](https://vulook-java-nationalbudget.herokuapp.com/) .
